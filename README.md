@@ -125,7 +125,7 @@ we bring in to our application stack. Can you help Dockerize the `frontend`, `ba
 **Nice to have:** Infrastructure as code (IaC) recently grows in popularity.
 
 - How is it related to Kubernetes?
-- Would IaC help us; if it would; how do we apply it to our stack?
+- Would IaC help us? If it would, how do we apply it to our stack?
 
 ### 4. (Extra) Ship it.
 
