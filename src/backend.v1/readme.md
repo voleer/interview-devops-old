@@ -6,13 +6,13 @@ This codebase was created to demonstrate a fully fledged fullstack application b
 
 ```
 .
-├── gorm.db
-├── hello.go
+├── gorm.db             //created in the initial run
+├── main.go             //entrypoint for the server
 ├── common
 │   ├── utils.go        //small tools function
 │   └── database.go     //DB connect manager
 └── users
-    ├── models.go       //data models define & DB operation
+    ├── models.go       //data models definition & DB operation
     ├── serializers.go  //response computing & format
     ├── routers.go      //business logic & router binding
     ├── middlewares.go  //put the before & after logic of handle request
@@ -28,7 +28,7 @@ https://golang.org/doc/install
 ## Start
 
 ```
-->  go run .
+➜  go run .
 ```
 
 ## Test
@@ -40,16 +40,16 @@ https://golang.org/doc/install
 ## Build
 
 ```
-->  go build -i -o ./bin/server
-->  chmod +x ./bin/server
-->  ./bin/server
+➜  go build -i -o ./bin/server
+➜  chmod +x ./bin/server
+➜  ./bin/server
 ```
 
 If you are on Windows, add `.exe` to the `server` executable name
 
 ```
-->  go build -i -o ./bin/server.exe
-->  ./bin/server.exe
+➜  go build -i -o ./bin/server.exe
+➜  ./bin/server.exe
 ```
 
 ## Todo

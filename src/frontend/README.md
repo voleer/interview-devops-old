@@ -19,18 +19,6 @@ If you want to change the API URL to a local server, simply edit `.env.developme
 
 ## Functionality overview
 
-The example application is a social blogging site (i.e. a Medium.com clone) called "Conduit". It uses a custom API for all requests, including authentication.
-
-**General functionality:**
-
-- Authenticate users via JWT (login/signup pages + logout button on settings page)
-- CRU\* users (sign up & settings page - no deleting required)
-- CRUD Articles
-- CR\*D Comments on articles (no updating required)
-- GET and display paginated lists of articles
-- Favorite articles
-- Follow other users
-
 **The general page breakdown looks like this:**
 
 - Home page (URL: /#/ )

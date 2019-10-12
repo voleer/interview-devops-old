@@ -23,4 +23,6 @@ We can try with [Canary Release](https://martinfowler.com/bliki/CanaryRelease.ht
 
 ![Final](./img/04_architecture_final_switch.png)
 
-**(Under construction ...)**
+## Plan of action
+
+![Under construction](https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_1280.png)
