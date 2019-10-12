@@ -50,6 +50,8 @@ getting _the_ "right" answer.
 
 - What scripting language(s) are you comfortable with?
 
+- What cloud provider(s) have you had experience with and what have you used them for?
+
 - Name some tools that you use and describe their purpose in your work.
 
 ## Repo structure
