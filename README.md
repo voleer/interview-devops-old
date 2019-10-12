@@ -70,9 +70,13 @@ The example application stack is a social blogging site (i.e. a Medium.com clone
 
 **In this repo, you will find:**
 
+- [./api](./api):
+
+  - API specification and some utilities to test the backend.
+
 - [./src](./src):
 
-  - Source code of the applications stack
+  - Source code of the application stack.
 
 - [./src/frontend](./src/frontend):
 
@@ -110,7 +114,7 @@ to comment/uncomment the environment value under [./src/frontend/.env.developmen
 ### 2. Can we Dockerize the applications?
 
 We have heard good things about Docker and containerization technology, and think what if
-we bring in to our applications stack. Can you help Dockerize the `frontend`, `backend.v1` and `backend.v2`?
+we bring in to our application stack. Can you help Dockerize the `frontend`, `backend.v1` and `backend.v2`?
 
 **Nice to have:** It's always good to save developers time with efficient processes. Is there any optimization that we can do?
 
