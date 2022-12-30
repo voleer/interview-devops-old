@@ -7,7 +7,7 @@ require (
 	github.com/dgrijalva/jwt-go v0.0.0-20170608005149-a539ee1a749a
 	github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5 // indirect
 	github.com/gin-contrib/cors v1.3.0
-	github.com/gin-gonic/gin v1.4.0
+	github.com/gin-gonic/gin v1.7.0
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
 	github.com/gosimple/slug v1.1.0
 	github.com/jinzhu/gorm v0.0.0-20170703134954-2a1463811ee1
@@ -16,8 +16,8 @@ require (
 	github.com/lib/pq v1.2.0 // indirect
 	github.com/mattn/go-sqlite3 v0.0.0-20170710140056-47fc4e5e9153 // indirect
 	github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be // indirect
-	github.com/stretchr/testify v1.3.0
-	golang.org/x/crypto v0.0.0-20191010185427-af544f31c8ac
+	github.com/stretchr/testify v1.4.0
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/go-playground/validator.v8 v8.18.2
 )
